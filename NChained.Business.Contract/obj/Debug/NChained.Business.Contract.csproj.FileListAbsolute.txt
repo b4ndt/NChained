@@ -1,0 +1,4 @@
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business.Contract\bin\Debug\NChained.Business.Contract.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business.Contract\bin\Debug\NChained.Business.Contract.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business.Contract\obj\Debug\NChained.Business.Contract.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business.Contract\obj\Debug\NChained.Business.Contract.pdb

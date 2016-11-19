@@ -1,0 +1,14 @@
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\bin\Debug\NChained.Client.exe.config
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\bin\Debug\NChained.Client.exe
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\bin\Debug\NChained.Client.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client.csprojResolveAssemblyReference.cache
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\MainWindow.g.cs
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\App.g.cs
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client_MarkupCompile.cache
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client_MarkupCompile.lref
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\MainWindow.baml
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client.g.resources
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client.Properties.Resources.resources
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client.csproj.GenerateResource.Cache
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client.exe
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Client\obj\Debug\NChained.Client.pdb

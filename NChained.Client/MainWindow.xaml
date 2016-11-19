@@ -1,0 +1,33 @@
+﻿<Window x:Class="NChained.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NChained.Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="44*"/>
+            <ColumnDefinition Width="475*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!-- Ribbon/button Bar-->
+            <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Margin="10"  Orientation="Horizontal">
+            <Button  Height="48" Width="100" Padding="10" Content="op1"/>
+            <Button  Height="48" Width="100" Padding="10" Content="op2"/>
+            </StackPanel>
+        
+        <DockPanel HorizontalAlignment="Left" Grid.Row="1"
+                   Height="283" LastChildFill="True" 
+                   Margin="10,28,0,0"
+                   VerticalAlignment="Top" 
+                   Width="133" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

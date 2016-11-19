@@ -1,0 +1,9 @@
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\obj\Debug\NChained.Service.csprojResolveAssemblyReference.cache
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\bin\Debug\NChained.Service.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\bin\Debug\NChained.Service.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\bin\Debug\NChained.Business.Contract.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\bin\Debug\NChained.Business.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\bin\Debug\NChained.Business.Contract.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\bin\Debug\NChained.Business.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\obj\Debug\NChained.Service.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service\obj\Debug\NChained.Service.pdb

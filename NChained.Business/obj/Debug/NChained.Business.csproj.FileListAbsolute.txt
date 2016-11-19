@@ -1,0 +1,7 @@
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business\bin\Debug\NChained.Business.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business\bin\Debug\NChained.Business.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business\bin\Debug\NChained.Business.Contract.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business\bin\Debug\NChained.Business.Contract.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business\obj\Debug\NChained.Business.csprojResolveAssemblyReference.cache
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business\obj\Debug\NChained.Business.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Business\obj\Debug\NChained.Business.pdb

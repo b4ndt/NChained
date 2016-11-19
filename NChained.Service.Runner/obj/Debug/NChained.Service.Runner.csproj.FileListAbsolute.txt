@@ -1,0 +1,14 @@
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\obj\Debug\NChained.Service.Runner.csprojResolveAssemblyReference.cache
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Service.Runner.exe.config
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Service.Runner.exe
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Service.Runner.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Service.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\Topshelf.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Business.Contract.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Business.dll
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Service.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\Topshelf.xml
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Business.Contract.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\bin\Debug\NChained.Business.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\obj\Debug\NChained.Service.Runner.exe
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Service.Runner\obj\Debug\NChained.Service.Runner.pdb

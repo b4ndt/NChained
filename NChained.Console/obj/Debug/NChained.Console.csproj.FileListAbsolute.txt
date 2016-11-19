@@ -1,0 +1,6 @@
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Console\bin\Debug\NChained.Console.exe.config
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Console\bin\Debug\NChained.Console.exe
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Console\bin\Debug\NChained.Console.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Console\obj\Debug\NChained.Console.exe
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Console\obj\Debug\NChained.Console.pdb
+C:\Users\Tranquil\Source\Repos\NChained\Full\NChained.Console\obj\Debug\NChained.Console.csprojResolveAssemblyReference.cache

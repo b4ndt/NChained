@@ -1,0 +1,6 @@
+namespace NChainedWebApp.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
